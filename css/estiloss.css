@@ -1,0 +1,42 @@
+body{
+	background-image: url(../img/playa.jpg);
+}
+
+.escudo{
+	margin-top: 30px;
+}
+
+.div2 , .div3{
+	font-size: 22px;
+	font-family: cursive;
+}
+
+div{
+	text-align: justify;
+}
+
+.color{
+	margin-top: 10px;
+	background-color: #A89BF8;
+	border-radius:15px;
+	padding: 5px;
+}
+
+.historia{
+	background-color: rgba(100,100,100,0.6);
+	color: black;
+	border-radius: 15px;
+
+}
+
+.historia2{
+	background-color: rgba(0,0,0,0.6);
+	color: white;
+	border-radius: 15px;
+
+}
+.m{
+	background-color: rgba(100,100,100,0.6);
+	color: black;
+	border-radius: 15px;
+}
